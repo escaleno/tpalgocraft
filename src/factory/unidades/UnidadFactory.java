@@ -67,12 +67,12 @@ public class UnidadFactory {
 	//Atributos Dragon
 	public static final int 	UNIDAD_DRAGON_TRANSPORTE = 4;
 	public static final int 	UNIDAD_DRAGON_VISION = 8;
-	public static final String UNIDAD_DRAGON_COSTO = "125M50G";
+	public static final String 	UNIDAD_DRAGON_COSTO = "125M50G";
 	public static final int 	UNIDAD_DRAGON_TIEMPO_CONSTRUCCION = 5;
-	public static final String UNIDAD_DRAGON_DAÑO = "20A20T";
+	public static final String 	UNIDAD_DRAGON_DAÑO = "20A20T";
 	public static final int 	UNIDAD_DRAGON_SUMINISTRO = 2;
-	public static final String UNIDAD_DRAGON_RANGO_ATAQUE = "0A4T";
-	public static final String UNIDAD_DRAGON_VIDA = "80/100";
+	public static final String 	UNIDAD_DRAGON_RANGO_ATAQUE = "0A4T";
+	public static final String	UNIDAD_DRAGON_VIDA = "80/100";
 	
 	//Atributos Scout
 	public static final int 	UNIDAD_SCOUT_TRANSPORTE = 0;
@@ -82,26 +82,26 @@ public class UnidadFactory {
 	public static final String 	UNIDAD_SCOUT_DAÑO = "14A8T";
 	public static final int 	UNIDAD_SCOUT_SUMINISTRO = 0;
 	public static final String 	UNIDAD_SCOUT_RANGO_ATAQUE = "4A0T";
+	public static final String 	UNIDAD_SCOUT_VIDA = "100/150";
 	
-	public static final String UNIDAD_SCOUT_VIDA = "100/150";
 	//Atributos AltoTemplario
 	public static final int 	UNIDAD_ALTO_TEMPLARIO_TRANSPORTE = 2;
 	public static final int 	UNIDAD_ALTO_TEMPLARIO_VISION = 7;
-	public static final String UNIDAD_ALTO_TEMPLARIO_COSTO = "50M150G";
+	public static final String 	UNIDAD_ALTO_TEMPLARIO_COSTO = "50M150G";
 	public static final int 	UNIDAD_ALTO_TEMPLARIO_TIEMPO_CONSTRUCCION = 5;
-	public static final String UNIDAD_ALTO_TEMPLARIO_DAÑO = "0A0T";
+	public static final String 	UNIDAD_ALTO_TEMPLARIO_DAÑO = "0A0T";
 	public static final int 	UNIDAD_ALTO_TEMPLARIO_SUMINISTRO = 0;
-	public static final String UNIDAD_ALTO_TEMPLARIO_RANGO_ATAQUE = "0A0T";
+	public static final String 	UNIDAD_ALTO_TEMPLARIO_RANGO_ATAQUE = "0A0T";
 	public static final String	UNIDAD_ALTO_TEMPLARIO_VIDA = "40/40";
 	
 	//Atributos NaveTransporteProtoss
 	public static final int 	UNIDAD_NAVE_TRANSPORTE_PROTOSS_TRANSPORTE = 8;
 	public static final int 	UNIDAD_NAVE_TRANSPORTE_PROTOSS_VISION = 8;
-	public static final String UNIDAD_NAVE_TRANSPORTE_PROTOSS_COSTO = "200M";
+	public static final String 	UNIDAD_NAVE_TRANSPORTE_PROTOSS_COSTO = "200M";
 	public static final int 	UNIDAD_NAVE_TRANSPORTE_PROTOSS_TIEMPO_CONSTRUCCION = 0;
-	public static final String UNIDAD_NAVE_TRANSPORTE_PROTOSS_DAÑO = "0A0T";
+	public static final String 	UNIDAD_NAVE_TRANSPORTE_PROTOSS_DAÑO = "0A0T";
 	public static final int 	UNIDAD_NAVE_TRANSPORTE_PROTOSS_SUMINISTRO = 0;
-	public static final String UNIDAD_NAVE_TRANSPORTE_PROTOSS_RANGO_ATAQUE = "0A0T";
+	public static final String 	UNIDAD_NAVE_TRANSPORTE_PROTOSS_RANGO_ATAQUE = "0A0T";
 	public static final String	UNIDAD_NAVE_TRANSPORTE_PROTOSS_VIDA = "60/80";
 
 	
