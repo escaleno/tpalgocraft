@@ -1,9 +1,11 @@
 package model;
 
+import controller.Posicion;
+import exceptions.FueraDeRangoException;
+
 public interface Elemento {
 	
-	public void mover(int poisicionX, int posicionY);
-	
-	public void posicionar(int posicionX, int posicionY);
+	void posicionar(Posicion nuevaPosicion) throws FueraDeRangoException;
+	void mover(Posicion nuevaPosicion) throws FueraDeRangoException;
 
 }
